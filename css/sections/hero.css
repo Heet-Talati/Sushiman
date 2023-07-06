@@ -152,7 +152,11 @@
   gap: 10px;
 
   padding-left: 20px;
+<<<<<<< HEAD
   border-left: 1px solid rgba(2, 2, 2, 0.1);
+=======
+  border: 1px solid rgba(2, 2, 2, 0.1);
+>>>>>>> 91e9b90280e74f12cd6374a54817d001a565260c
   min-width: 200px;
 }
 
